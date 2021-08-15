@@ -2,11 +2,10 @@
 This is a sample page, starters for me
 ## [PROJECT 1]
 1. EPL analysis
+* Scraped data from various websites using python and selenium-JSON and API files/databases
+* Engineered features from the given database to find out the best perfoming teams in the division based on xG,xA
+* Optimized Linear Regression to reach the best model. 
+* In depth Visual analysis of teams performance in that season
+
 2. Housing price analysis
 3. Banking sector in India analysis:
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
-
