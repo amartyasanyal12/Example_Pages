@@ -9,6 +9,8 @@ This project was completed during an internship with **HDFC Bank**, wherein the 
 * Feature engineering, feature scaling, binning data 
 * Visual exploration: Univariate, bi-variate and multi-variate visualization
 
+![alt text](https://github.com/amartyasanyal12/Portfolio/blob/main/correlplot.png)
+
 ## [SOCCER PERFORMANCE ANALYTICS(EPL DATASET 2009-2010)](https://github.com/amartyasanyal12/Checkpoint_101)
 * Scraped data from various websites using python and selenium-JSON and API files/databases
 * Engineered features from the given database to find out the best perfoming teams in the division based on conversion rate,xG,xA
