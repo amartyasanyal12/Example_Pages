@@ -8,7 +8,7 @@ This project was completed during an internship with **HDFC Bank**, wherein the 
 * Feature engineering, feature scaling, binning data 
 * Visual exploration: Univariate, bi-variate and multi-variate visualization
 
-![](/main/correlplot.png)
+![](/correlplot.png)
 
 ## [SOCCER PERFORMANCE ANALYTICS(EPL DATASET 2009-2010)](https://github.com/amartyasanyal12/Checkpoint_101)
 * Scraped data from various websites using python and selenium-JSON and API files/databases
@@ -16,7 +16,7 @@ This project was completed during an internship with **HDFC Bank**, wherein the 
 * Optimized Linear Regression by composite scoring to get the best model. 
 * In depth Visual analysis of teams performance in that season
 
-![](/main/football.png)
+![](/football.png)
 
 
 ## HOUSE PRICES: ADVANCED REGRESSION TECHNIQUES
