@@ -15,3 +15,9 @@ This project was completed during an internship with **HDFC Bank**, wherein the 
 * Optimized Linear Regression by composite scoring to get the best model. 
 * In depth Visual analysis of teams performance in that season
 
+## HOUSE PRICES: ADVANCED REGRESSION TECHNIQUES
+This project was part of an inititiation to kaggle datasets and competitions. The problem statement is to predict the housing prices of a Boston suburb or town. The data is available on the UCI Library. Techniques of data preprocessing is required and then to predict the house prices. I have used multiple techniques such as XGBoost, Linear  regression to find the best fit for the project.
+* Exploratory data analysis, feature engineering, modelling
+* Standardisation of data, data imputation, scaling data, splitting data into test-train datasets, predicting the house prices
+* Linear regression was done but the scores weren't good enough to achieve maximum efficiency, so other techniques were implemented as well: Logistic regression, XGBoost 
+* 𝑅^2 ,Adjusted 𝑅^2,MAE(Mean of the absolute value of the errors),MSE(Mean square errors),RMSE(Root mean square error) observed and comparison drawn b/w different models.
