@@ -8,7 +8,7 @@ This project was completed during an internship with **HDFC Bank**, wherein the 
 * Feature engineering, feature scaling, binning data 
 * Visual exploration: Univariate, bi-variate and multi-variate visualization
 
-![](/avg_value_transactions.png)
+![](/YoY_growth.png)
 
 
 ![](/avg_value_transactions.png)
