@@ -10,7 +10,6 @@ This project was completed during an internship with **HDFC Bank**, wherein the 
 
 ![](/YoY_growth.png)
 
-
 ![](/avg_value_transactions.png)
 
 ## [SOCCER PERFORMANCE ANALYTICS(EPL DATASET 2009-2010)](https://github.com/amartyasanyal12/Checkpoint_101)
